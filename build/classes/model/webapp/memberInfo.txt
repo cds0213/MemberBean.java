@@ -1,0 +1,2 @@
+create table memberInfo(
+id varchar2(20)
